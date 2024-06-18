@@ -6,7 +6,7 @@ README.TXT
 
 1. **Clone the Repository:**
 
-   Clone the repository containing your project:
+   Clone the repository containing the project:
 
    ```bash
    git clone https://github.com/jefoo87/AIA-GML-James-Andres
