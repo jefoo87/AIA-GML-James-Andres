@@ -17,5 +17,4 @@ README.TXT
    ```
    conda create --name graphml --file requirements.txt
    ```
-4.
-Run notebooks using environment
+3. Run notebooks using environment
