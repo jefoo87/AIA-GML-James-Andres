@@ -13,7 +13,8 @@ README.TXT
    cd AIA-GML-James-Andres
    
 2. Create environment:
+```
    conda create --name graphml --file requirements.txt
-
-3.
+```
+4.
 Run notebooks using environment
